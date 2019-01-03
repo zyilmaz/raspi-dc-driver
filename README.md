@@ -1,7 +1,11 @@
-# raspi-dc-driver
-Controlling L298N driver with using Rasppberry Pi
+# Raspberry Pi DC Motor Controller
+Controlling L298N driver with using Raspberry Pi
 
-# How to use program
+## Project Dependencies
+
+* pi4j library for gpio controlling with using java (for more information [http://pi4j.com/]())
+
+## How to use program
 run below code and build and package project in zip format
 ```
 mvn clean install
@@ -17,7 +21,7 @@ project have dependencies so before running the program, run install script with
 sh install.sh
 ```
 
-this script installs oracle java and wiringpi (for more information look at [http://wiringpi.com/]())
+this script installs oracle java and wiringpi (for more information [http://wiringpi.com/]())
 
 after installation completed run start script,
 
