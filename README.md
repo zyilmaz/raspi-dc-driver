@@ -26,3 +26,7 @@ sh start.sh
 ```
 
 then go to [http://localhost:8090/control.html]()
+
+and it is how looks like web ui;
+
+![alt text](https://github.com/zyilmaz/raspi-dc-driver/blob/master/src/documents/web_ui.png)
