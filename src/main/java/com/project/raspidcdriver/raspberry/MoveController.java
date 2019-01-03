@@ -1,4 +1,4 @@
-package com.project.raspidcdriver.raspberrry;
+package com.project.raspidcdriver.raspberry;
 
 import com.pi4j.io.gpio.*;
 import com.project.raspidcdriver.utills.Configuration;

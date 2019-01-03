@@ -1,6 +1,6 @@
 package com.project.raspidcdriver.websocketcontroller;
 
-import com.project.raspidcdriver.raspberrry.MoveController;
+import com.project.raspidcdriver.raspberry.MoveController;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.stereotype.Controller;
 
